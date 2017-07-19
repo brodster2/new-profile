@@ -1,0 +1,17 @@
+{
+  "name": "new-profile",
+  "version": "1.0.0",
+  "description": "My profile site",
+  "main": "index.js",
+  "repository": "git@github.com:brodster2/new-profile.git",
+  "author": "Brodie Slater <brodster22@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
